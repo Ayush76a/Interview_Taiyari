@@ -45,7 +45,7 @@ Experience the platform in action: [Live Demo]()
 
 1. *Clone the Repository*
    bash
-   git clone https://github.com/your-username/interview-platform.git
+   git clone 
    cd interview-platform
    
 
