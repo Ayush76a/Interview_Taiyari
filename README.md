@@ -45,7 +45,7 @@ Experience the platform in action: [Live Demo]()
 
 1. *Clone the Repository*
    bash
-   git clone 
+   git clone https://github.com/Ayush76a/Interview_Taiyari
    cd interview-platform
    
 
