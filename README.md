@@ -44,34 +44,29 @@ Experience the platform in action: [Live Demo]()
 ### Installation Steps
 
 1. *Clone the Repository*
-   - bash
    - git clone https://github.com/Ayush76a/Interview_Taiyari
    - cd interview-platform
    
 
 2. *Backend Setup*
-   - bash
    - cd backend
    - npm install
    
 
    Create a .env file with the following configuration:
-   - env
    - PORT=8080
    - MONGO_URI=your_mongo_connection_string
    - JWT_SECRET=your_jwt_secret
    
 
    Start the backend server:
-   - bash
    - npm start
    
 
 3. *Frontend Setup*
-   bash
-   cd ../frontend
-   npm install
-   npm start
+   - cd ../frontend
+   - npm install
+   - npm start
    
 
 4. *Access the Application*
