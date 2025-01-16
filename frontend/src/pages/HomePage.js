@@ -12,7 +12,7 @@ const HomePage = () => {
           {/* Left Section: Description */}
           <Grid item xs={12} md={6}>
             <Typography variant="h3" gutterBottom>
-              Welcome to Interview Platform
+              Welcome to Interview Taiyari 
             </Typography>
             <Typography variant="body1" color="textSecondary" paragraph>
             Discover insider insights into interview processes with our collaborative platform. Share your personal interview experiences, gain valuable perspectives from others, and strategically prepare yourself for upcoming career opportunities. Connect with a community of professionals who are committed to helping each other succeed in their job search journey.

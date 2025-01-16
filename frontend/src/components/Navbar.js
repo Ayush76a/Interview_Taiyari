@@ -24,7 +24,7 @@ const Navbar = () => {
     <AppBar position="static" color="primary">
       <Toolbar>
         <Typography variant="h6" style={{ flexGrow: 1 }}>
-          Interview Platform
+          Interview Taiyari
         </Typography>
         {isLoggedIn ? (
           <>
