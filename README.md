@@ -100,14 +100,14 @@ Experience the platform in action: [Live Demo]()
 
 ### Authentication Endpoints
 
-POST /api/users/register  - Register new user
-POST /api/users/login     - User login
+- POST /api/users/register  - Register new user
+- POST /api/users/login     - User login
 
 
 ### Submission Endpoints
 
-GET    /api/submissions       - Retrieve all submissions
-GET    /api/submissions/user  - Get user-specific submissions
-POST   /api/submissions      - Create new submission
-PUT    /api/submissions/:id  - Update existing submission
-DELETE /api/submissions/:id  - Remove submission
+- GET    /api/submissions       - Retrieve all submissions
+- GET    /api/submissions/user  - Get user-specific submissions
+- POST   /api/submissions      - Create new submission
+- PUT    /api/submissions/:id  - Update existing submission
+- DELETE /api/submissions/:id  - Remove submission
