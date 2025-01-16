@@ -44,27 +44,27 @@ Experience the platform in action: [Live Demo]()
 ### Installation Steps
 
 1. *Clone the Repository*
-   bash
-   git clone https://github.com/Ayush76a/Interview_Taiyari
-   cd interview-platform
+   - bash
+   - git clone https://github.com/Ayush76a/Interview_Taiyari
+   - cd interview-platform
    
 
 2. *Backend Setup*
-   bash
-   cd backend
-   npm install
+   - bash
+   - cd backend
+   - npm install
    
 
    Create a .env file with the following configuration:
-   env
-   PORT=8080
-   MONGO_URI=your_mongo_connection_string
-   JWT_SECRET=your_jwt_secret
+   - env
+   - PORT=8080
+   - MONGO_URI=your_mongo_connection_string
+   - JWT_SECRET=your_jwt_secret
    
 
    Start the backend server:
-   bash
-   npm start
+   - bash
+   - npm start
    
 
 3. *Frontend Setup*
